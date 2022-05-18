@@ -11,14 +11,4 @@
 .standoff{
        color: red;
 }
-.strim{
-    color:rgb(223, 14, 188);
-    margin-left: 900px;
-    width:200px;
-    height: 200px;
-    background-color: chartreuse;
-}
-.ded{
-    background-color:rgb(241, 11, 153);
-    margin-right: 700px;
-}
+
