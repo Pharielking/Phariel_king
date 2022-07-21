@@ -1,58 +1,24 @@
-.h1{
-    color: red;
+.osnova{
+    width:400px;
+    height:525px;
 }
-.fotospace{
-    width:430px;
-    height: 430px;
+.opisanie{
+    margin-right: 1100px;
+    background-color: aqua;
+    color: rgb(255, 255, 255);
 }
-.donat{
-    color: red;
+.s{
+    color: rgb(159, 7, 219);
 }
-.standoff{
-       color: red;
+.a{
+    color: firebrick;
 }
-.strim1{
-    background-color: green;
+.crimea{
+   margin-left:1250px;
+   width: 600px;
+   height: 400px;
 }
-.strim2{
-    background-color: darkred;
-}
-.anima3 {
-    color: rgb(0, 0, 0);
-    box-shadow:10ex 50px 10px rgba(0,0,0,0.1);
-    animation: anima_3 10s infinite linear;
-
-}
-@keyframes anima_3 {
-0% {
-  text-shadow: 0px 0px 0px black;
-  color: black;
-  margin-left:0px;
- }
-50%{
-    text-shadow: 1px 3px 30px rgb(247, 0, 214);
-    color:white;
-    margin-left:300px;
-  }
-  100%{
-    text-shadow: 0px 0px 0px rgb(0, 0, 0);
-    color: black;
-    margin-left:00px;
-  }
-  }
-.red{
-    background-color: red;
-}
-.relic{
+.fa{
+    padding-left:1290px;
     background-color: bisque;
-}
-.treek{
-    background-color: rgb(8, 238, 77);
-}
-.este{
-    background-color: greenyellow;
-}
-.estes{
-    width:510px;
-    height: 650px;
 }
